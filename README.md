@@ -27,6 +27,7 @@ Mental Health Fairness is a project aimed at promoting fairness in mental health
 
 
    Navigate to the project directory:
+   bash
 cd mental-health-fairness
 
 
