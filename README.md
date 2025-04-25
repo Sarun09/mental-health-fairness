@@ -1,4 +1,3 @@
-# mental-health-fairness
 # Mental Health Fairness
 
 ## Overview
@@ -24,31 +23,35 @@ Mental Health Fairness is a project aimed at promoting fairness in mental health
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sarun09/mental-health-fairness.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd mental-health-fairness
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-
-   Navigate to the project directory:
-   bash
-cd mental-health-fairness
-
-
-Install dependencies:
-npm install
-
-
-Running the Application
+## Running the Application
 To start the development server:
-
+```bash
 npm run dev
+```
+
 To build the project for production:
-
-
+```bash
 npm run build
+```
+
 To serve the production build:
-
-
+```bash
 npm start
+```
 
-Running Tests
+## Running Tests
 Run unit tests using:
-
+```bash
 npm test
+```
+
