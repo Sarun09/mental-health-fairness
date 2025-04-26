@@ -39,19 +39,3 @@ To start the development server:
 npm run dev
 ```
 
-To build the project for production:
-```bash
-npm run build
-```
-
-To serve the production build:
-```bash
-npm start
-```
-
-## Running Tests
-Run unit tests using:
-```bash
-npm test
-```
-
